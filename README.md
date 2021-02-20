@@ -19,7 +19,16 @@ Out of all the tweets in this period, these hashtags appeared most often. The ha
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Tophashtagsperday.png >
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Top10Tweeters.png >
-
+Top ten Tweeters:
+1. Trendinalia France - France media source
+2. Média Soignant - More media
+3. ?
+4. Kristel_47 - Random Karen who shares everything
+5. Chat Perdu - Cat adoption
+6. Forkster Music Promo - Music studio
+7. Trendsmap Paris - France media source
+8. Topher - Individual music producer? Rapper?
+9. ?
 
 
 
