@@ -5,7 +5,22 @@ For this notable period in history we wanted to find the busiest day for French 
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/tweets%20per%20day.png>
 
-Two notable twitter accounts lead by a significant margin above all others – French media tracking accounts that post links to French news sites. Their media power is very clear -- they repeatedly post particular hashtags often enough that they comprise the majority of sources for this leading hashtag.
+Two notable twitter accounts lead by a significant margin above all others – French media tracking accounts that post links to French news sites.
+
+<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Top10Tweeters.png >
+
+The power of the media outlets is very clear -- they repeatedly post particular hashtags often enough that they comprise the majority of sources for this leading hashtag.
+
+Top ten Tweeters:
+1. Trendinalia France - France media source
+2. Média Soignant - More media
+3. ?
+4. Kristel_47 - Random lady who shares everything
+5. Chat Perdu - Cat adoption
+6. Forkster Music Promo - Music studio
+7. Trendsmap Paris - France media source
+8. Topher - Music producer
+9. ?
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
 
@@ -18,17 +33,7 @@ Out of all the tweets in this period, these hashtags appeared most often. The ha
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Tophashtagsperday.png >
 
-<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Top10Tweeters.png >
-Top ten Tweeters:
-1. Trendinalia France - France media source
-2. Média Soignant - More media
-3. ?
-4. Kristel_47 - Random Karen who shares everything
-5. Chat Perdu - Cat adoption
-6. Forkster Music Promo - Music studio
-7. Trendsmap Paris - France media source
-8. Topher - Individual music producer? Rapper?
-9. ?
+
 
 
 
