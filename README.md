@@ -20,4 +20,4 @@ Out of all the tweets in this period, these hashtags appeared most often.
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
 
-<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Tweets_per_Day.png>
+<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/tweets%20per%20day.png>
