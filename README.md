@@ -15,16 +15,6 @@ Out of all the tweets in this period, these hashtags appeared most often. The ha
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-06-51.png >
 
-TPMP telev show – news talkshow
-Kohlanta telev show – French survivor
-
-
-Hashtag connected to user using it the most.
-
-
-
-
-
 
 
 
