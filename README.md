@@ -24,17 +24,8 @@ Top ten Tweeters:
 The power of the media outlets is very clear -- they repeatedly post particular hashtags often enough that they comprise the majority of sources for this leading hashtag.
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
-
-
+<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Tophashtagsperday.png >
 
 Out of all the tweets in this period, these hashtags appeared most often. The hashtag TPMP1000 is for a French television news show, which is expected in this time period. Following is KohLanta, a reality television show reminiscient of "Survivor". Even during significant political movements people love a good show!
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-06-51.png >
-
-
-<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Tophashtagsperday.png >
-
-
-
-
-
