@@ -9,8 +9,6 @@ Two notable twitter accounts lead by a significant margin above all others – F
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Top10Tweeters.png >
 
-The power of the media outlets is very clear -- they repeatedly post particular hashtags often enough that they comprise the majority of sources for this leading hashtag.
-
 Top ten Tweeters:
 1. Trendinalia France - France media source
 2. Média Soignant - More media
@@ -21,6 +19,9 @@ Top ten Tweeters:
 7. Trendsmap Paris - France media source
 8. Topher - Music producer
 9. ?
+
+
+The power of the media outlets is very clear -- they repeatedly post particular hashtags often enough that they comprise the majority of sources for this leading hashtag.
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
 
