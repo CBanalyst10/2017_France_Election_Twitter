@@ -9,7 +9,7 @@ Two notable twitter accounts lead by a significant margin above all others – F
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-06-51.png >
 
-Out of all the tweets in this period, these hashtags appeared most often. The hashtag TPMP is for a French television news show, which is expected 
+Out of all the tweets in this period, these hashtags appeared most often. The hashtag TPMP is for a French television news show, which is expected in this time period. Following is Kohlanta, a reality television show reminiscient of "Survivor". Even during significant political movements people love a good show!
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
 
