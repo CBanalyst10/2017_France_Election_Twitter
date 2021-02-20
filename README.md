@@ -5,7 +5,7 @@ For this notable period in history we wanted to find the busiest day for French 
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/tweets%20per%20day.png>
 
-Two notable twitter accounts lead by a significant margin above all others – French media tracking accounts that post links to French news sites.
+Two notable twitter accounts lead by a significant margin above all others – French media tracking accounts that post links to French news sites. Their media power is very clear -- they repeatedly post particular hashtags often enough that they comprise the majority of sources for this leading hashtag.
 
 <img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
 
