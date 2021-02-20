@@ -7,7 +7,11 @@ For this notable period in history we wanted to find the busiest day for French 
 
 Two notable twitter accounts lead by a significant margin above all others – French media tracking accounts that post links to French news sites.
 
+<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-06-51.png >
+
 Out of all the tweets in this period, these hashtags appeared most often. The hashtag TPMP is for a French television news show, which is expected 
+
+<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
 
 TPMP telev show – news talkshow
 Kohlanta telev show – French survivor
@@ -20,8 +24,8 @@ Hashtag connected to user using it the most.
 
 
 
-<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-06-51.png >
 
-<img src = https://github.com/CBanalyst10/2017_France_Election_Twitter/blob/main/Screenshot%20from%202021-02-19%2016-07-18.png >
+
+
 
 
